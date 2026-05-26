@@ -20,7 +20,7 @@
 
 **Скриншот 1:** Установленная программа UTM
 
-![UTM Installed](screenshots/1-utm-installed.png)
+![UTM Installed](photo_2026-05-26 21.22.30.jpeg)
 
 ### 2. Загрузка ISO образа
 
