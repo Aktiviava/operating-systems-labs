@@ -23,7 +23,6 @@
 
 ### 1. Создание папки и файла
 
-```bash
 mkdir -p ~/labs/lab2
 cd ~/labs/lab2
 nano producer_consumer.cpp
