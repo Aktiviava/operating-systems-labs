@@ -19,8 +19,8 @@
 Был установлен эмулятор/виртуализатор UTM для запуска ARM64 виртуальных машин на Apple M2.
 
 **Скриншот 1:** Установленная программа UTM
-
-![Установленная программа UTM](screenshots/photo_2026-05-26%2021.22.30.jpeg)
+[
+![Установленная программа UTM](screenshots/photo_2026-05-26%2021.22.30.jpeg)](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.22.30.jpeg?raw=true)
 
 ### 2. Загрузка ISO образа
 
@@ -29,7 +29,7 @@
 
 **Скриншот 2:** Проблема со входом в линукс
 
-![ISO Downloaded](screenshots/2-iso-downloaded.png)
+[![ISO Downloaded](screenshots/2-iso-downloaded.png)](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.22.57.jpeg?raw=true)
 
 **Проблема:** Первая попытка скачать ISO оказалась неудачной — файл весил 2 ГБ вместо 3 ГБ. Пришлось скачать заново.
 
@@ -43,7 +43,7 @@
 
 **Скриншот 3:** Настройка виртуальной машины
 
-![VM Config](screenshots/3-vm-config.png)
+[![VM Config](screenshots/3-vm-config.png)](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.05.jpeg?raw=true)
 
 ### 4. Установка Ubuntu Server
 
@@ -58,7 +58,7 @@
 
 **Скриншот 4:** Настройки и данные пользователя
 
-![User Setup](screenshots/4-user-setup.png)
+[![User Setup](screenshots/4-user-setup.png)](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.10.jpeg?raw=true)
 
 ### 5. Настройка SSH
 
@@ -66,7 +66,8 @@
 
 **Скриншот 5:** Выбор OpenSSH для подключения к ВМ
 
-![SSH Setup](screenshots/5-ssh-setup.png)
+[![SSH Setup](screenshots/5-ssh-setup.png)](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.13.jpeg?raw=true
+)
 
 ### 6. Первый вход и настройка окружения
 
@@ -74,12 +75,16 @@
 login: labuser
 password: lab2026
 
+https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.19.jpeg?raw=true
+
 Установлены необходимые инструменты:
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y build-essential gdb git nano htop
 
 Для удобства работы с лабораторными было настроено подключение к ВМ через терминал Mac:
 ssh labuser@192.168.64.2
+
+https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.27.55.jpeg?raw=true
 
 Результат
 
