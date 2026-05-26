@@ -75,7 +75,10 @@
 login: labuser
 password: lab2026
 
-https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.19.jpeg?raw=true
+**Скриншот 6:** Вход в линукс
+
+[https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.19.jpeg?raw=true](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.23.19.jpeg?raw=true
+)
 
 Установлены необходимые инструменты:
 sudo apt update && sudo apt upgrade -y
@@ -84,7 +87,9 @@ sudo apt install -y build-essential gdb git nano htop
 Для удобства работы с лабораторными было настроено подключение к ВМ через терминал Mac:
 ssh labuser@192.168.64.2
 
-https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.27.55.jpeg?raw=true
+**Скриншот 7:** Подключение к ВМ черещ терминал Mac
+
+[https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.27.55.jpeg?raw=true](https://github.com/Aktiviava/operating-systems-labs/blob/main/lab1-installation/photo_2026-05-26%2021.27.55.jpeg?raw=true)
 
 Результат
 
