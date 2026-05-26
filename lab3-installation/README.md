@@ -18,7 +18,7 @@ nano loops.sh
 
 https://github.com/Aktiviava/operating-systems-labs/blob/main/lab3-installation/photo_2026-05-26%2022.50.41.jpeg?raw=true
 
-# Исходный код
+## Исходный код
 
 #!/bin/bash
 
